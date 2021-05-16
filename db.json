@@ -136,34 +136,4 @@
       "city": "San Francisco",
       "country": "United States"
     }
-  }, {
-    "Company_name": "Skyble",
-    "address": {
-      "city": "San Pedro Jocopilas",
-      "country": "Guatemala"
-    }
-  }, {
-    "Company_name": "Jetpulse",
-    "address": {
-      "city": "El Aguilar",
-      "country": "Argentina"
-    }
-  }, {
-    "Company_name": "Skidoo",
-    "address": {
-      "city": "Nanyi",
-      "country": "China"
-    }
-  }, {
-    "Company_name": "Flashspan",
-    "address": {
-      "city": "Rudong",
-      "country": "China"
-    }
-  }, {
-    "Company_name": "Wordpedia",
-    "address": {
-      "city": "København",
-      "country": "Denmark"
-    }
-  }]
+  }, ]
